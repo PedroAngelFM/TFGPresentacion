@@ -1,0 +1,48 @@
+\section{Métodos supervisados}
+\begin{frame}{Métodos supervisados}
+\begin{columns}
+\begin{column}{0.9\textwidth}
+\begin{defi}
+Son aquellos que buscan inferir una relación estocástica entre dos grupos de variables, predictoras a partir de un conjunto de datos procedentes de observaciones simultáneas de ambos conjuntos. 
+\end{defi}
+
+Si se estudian varias variables de manera simultánea, se dividen en los siguientes tipos:\pause
+\begin{itemize}
+\item Variables predictoras, son las variables independientes, se denotarán por el vector aleatorio $\mathbf{x}=[X_1,\ldots, X_p]$ \pause
+\item Variables respuesta, son las variables dependientes, se denotarán como el vector aleatorio $\mathbf{y}=[Y_1,\ldots, Y_K]$ y como $Y$ cuando $K=1$.
+\end{itemize}
+\end{column}
+\end{columns}
+\end{frame}
+
+\begin{frame}{Métodos supervisados}
+\begin{columns}
+\begin{column}{0.9\textwidth}
+Se trabajará con muestras aleatorias simples de $N$ observaciones de las $K+p$ variables, obteniéndose las siguientes matrices:
+\begin{defi}
+Se llama matriz de datos $\mathbf{X}$ a la matriz de tamaño $N\times p$ cuyas filas $\mathbf{x}_i,\enspace i=1,\ldots,N$ representan una observación de las $p$ variables predictoras.
+\end{defi}
+\begin{defi}
+Se llama matriz de respuestas $\mathbf{Y}$ a la matriz de tamaño $N\times K$ cuyas filas $\mathbf{y}_i,\enspace i=1,\ldots,N$ representan una observación de las $K$ variables respuesta.
+\end{defi}
+\end{column}
+\end{columns}
+\end{frame}
+
+\begin{frame}{Métodos supervisados}
+\begin{columns}
+\begin{column}{0.9\textwidth}
+Por tanto, se recogen $N$ observaciones $(\mathbf{x}_i,\mathbf{y}_i)$ obteniéndose un vector de longitud $K+p$.
+
+Los métodos supervisados buscan estimar una relación estocástica que se llamará predictor que conocido el valor de las variables predictoras $\mathbf{x}_0$, se pueda hacer una predicción del valor de las variables respuesta $\mathbf{y}_0$, que se denota por $\mathbf{\hat{y}}_0$.
+\end{column}
+\end{columns}
+\end{frame}
+
+\input{Documentos Extra/Regresion lineal.tex}
+
+\input{Documentos Extra/Clasificacion.tex}
+
+\input{Documentos Extra/Redes neuronales.tex}
+
+\input{Documentos Extra/Arboles.tex}

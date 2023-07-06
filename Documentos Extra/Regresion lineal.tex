@@ -1,0 +1,199 @@
+\subsection{Métodos lineales para regresión}
+\begin{frame}{Métodos supervisados}
+\begin{columns}
+\begin{column}{0.9\textwidth}
+El objetivo de la regresión lineal es estudiar como un conjunto de variables respuesta están relacionadas con una combinación lineal de las variables predictoras. 
+\end{column}
+\end{columns}
+\end{frame}
+
+\begin{frame}{Métodos supervisados}
+\begin{columns}
+\begin{column}{0.9\textwidth}
+Tomamos el modelo en el que: 
+\begin{equation}
+Y=f(\mathbf{x})+\varepsilon
+\end{equation}
+donde $\varepsilon$ cumple:
+\begin{itemize}
+\item $\mathbb{E}(\varepsilon)=0$
+\item $Var(\varepsilon)=\sigma^2$
+\end{itemize}
+A mayores se puede asumir que $\varepsilon\sim N(0,\sigma^2)$
+\end{column}
+\end{columns}
+\end{frame}
+
+\begin{frame}{Métodos supervisados}
+\begin{columns}
+\begin{column}{0.9\textwidth}
+En la regresión lineal se asume que $f$ es de la siguiente manera:
+\begin{equation}
+f(\mathbf{x})=\beta_0+\sum_{j=1}^p \beta_j X_j
+\end{equation}
+\begin{itemize}
+\item $\beta=[\beta_0,\beta_1,\ldots,\beta_p]^T$ es el vector con los parámetros de regresión.
+\item Añadiendo a $\mathbf{x}$ la variable $X_0=1$ se puede expresar f: 
+\end{itemize}
+
+\begin{equation}
+f(\mathbf{x})=\mathbf{x}\beta
+\end{equation}
+
+Tomando $N$ observaciones, se puede obtener el vector $\mathbf{\hat{y}}$:
+\begin{equation}
+\mathbf{\hat{y}}=\mathbf{X}\beta
+\end{equation}
+
+\end{column}
+\end{columns}
+\end{frame}
+
+
+\subsubsection{Métodos de ajuste}
+\begin{frame}{Métodos supervisados}
+\begin{columns}
+\begin{column}{0.9\textwidth}
+\begin{defi}
+Llamamos error de predicción cuadrático entre una variable observable $Y$ y la predicción obtenida por un cierto modelo $\hat{Y}$ a la expresión $(Y-\hat{Y})^2$
+\end{defi}
+Para medir la bondad de ajuste al tomar una muestra de $N$ observaciones se puede utilizar la suma de errores cuadráticos, $RSS$
+\begin{equation}
+RSS(\beta)=\sum_{i=1}^N(y_i-\mathbf{x}\beta)^2=(\mathbf{y}-\mathbf{X}\beta)(\mathbf{y}-\mathbf{X}\beta)^T
+\end{equation}
+\end{column}
+\end{columns}
+\end{frame}
+
+
+
+\begin{frame}{Métodos supervisados}
+\begin{columns}
+\begin{column}{0.9\textwidth}
+Se puede obtener una estimación de $\beta$ minimizando $RSS$ respecto de $\beta$, obtiendose que en el caso de que $\mathbf{X}$ sea de rango máximo la siguiente expresión:
+\begin{equation}
+\hat{\beta}=(\mathbf{X}^T\mathbf{X})^{-1}\mathbf{X}^T \mathbf{y}
+\end{equation}
+\begin{propo}
+Con los supuestos del modelo, la estimación mediante mínimos cuadrados es equivalente  al método de máxima verosimilitud
+\end{propo}
+\end{column}
+\end{columns}
+\end{frame}
+
+
+\begin{frame}{Métodos supervisados}
+\begin{columns}
+\begin{column}{0.9\textwidth}
+Por tanto, el vector de predicciones se puede expresar de la siguiente manera:
+\begin{equation}
+\mathbf{\hat{y}}= \mathbf{X}(\mathbf{X}^T\mathbf{X})^{-1}\mathbf{X}^T \mathbf{y}
+\end{equation}
+\end{column}
+\end{columns}
+\end{frame}
+
+
+\subsubsection{Inferencias estadísticas sobre $\hat{\beta}$}
+\begin{frame}{Métodos supervisados}
+\begin{columns}
+\begin{column}{0.9\textwidth}
+
+Supóngase lo siguiente: 
+\begin{itemize}
+\item $\mathbf{x}\sim N(\mu,\Sigma)$ del que obtenemos la matriz de datos $\mathbf{X}$ de tamaño $N\times p$. 
+\item $\mathbf{y}=\mathbf{X}\beta+\varepsilon$ donde $\varepsilon\sim N(0,\sigma^2\mathbf{I}_N)$.
+\end{itemize}
+\end{column}
+\end{columns}
+\end{frame}
+
+
+
+\begin{frame}{Métodos supervisados}
+\begin{columns}
+\begin{column}{0.9\textwidth}
+Se cumplen las siguientes propiedades: 
+\begin{itemize}
+\item El vector $\mathbf{y}\sim N(\mathbf{X}\beta,\sigma^2\mathbf{I}_N)$
+\item El vector $\hat{\beta}$ es un estimador insesgado.
+\item La varianza de $Var(\hat{\beta})=\sigma^2(\mathbf{X}^T\mathbf{X})^{-1}$.
+\item El estimador $\displaystyle\hat{\sigma}^2=\dfrac{1}{N-p-1}\sum_{i=1}^N(y_i-\hat{y}_i)^2$ es un estimador insesgado de $\sigma^2$ y además $\displaystyle\hat{\sigma}^2\sim \dfrac{\sigma^2}{N-p-1}\chi_{N-p-1}^2$
+\end{itemize}
+
+\end{column}
+\end{columns}
+\end{frame}
+
+\begin{frame}{Métodos supervisados}
+\begin{columns}
+\begin{column}{0.9\textwidth}
+Se puede definir un estadígrafo de contraste para comprobar si un conjunto de variables es estadísticamente significativo en el modelo. 
+\begin{equation}\label{eq: Estimador F}
+F=\dfrac{\dfrac{(RSS_0-RSS_1)}{p_1-p_0}}{\dfrac{RSS_1}{N-p_1-1}}\sim F_{(p_1,p_0),(N-p_1-1)}
+\end{equation}
+\end{column}
+\end{columns}
+\end{frame}
+
+\subsubsection{Regresión multivariante}
+\begin{frame}{Métodos supervisados}
+\begin{columns}
+\begin{column}{0.9\textwidth}
+En el caso de que tengamos $K$ variables respuesta $Y_1,\ldots, Y_K$ entonces el modelo es:
+\begin{equation}
+Y_k=\beta_{0k}+\sum_{j=1}^p X_j\beta_{jk}+\varepsilon_k = f_k(\textbf{x})+\varepsilon_k, \quad k=1,\ldots K
+\end{equation}
+donde $\varepsilon_k \sim N(0,\sigma_k^2)\enspace\forall k=1,\ldots,K$ que pueden o no estar correlacionados. Al tomar $N$ observaciones se puede expresar de manera matricial
+\begin{equation}
+\mathbf{Y=XB+E}
+\end{equation}
+donde $\mathbf{E}$ es la matriz $N\times K$ de errores cometidos en cada una de las observaciones.
+\end{column}
+\end{columns}
+\end{frame}
+
+\begin{frame}{Métodos supervisados}
+\begin{columns}
+\begin{column}{0.9\textwidth}
+El método de los mínimos cuadrados, cambia en el caso de que los errores tengan matriz de covarianzas $\mathbf{\Sigma}$ conocida el $RSS$ se define de la siguiente manera: 
+\begin{equation}
+RSS(\textbf{B},\mathbf{\Sigma})=\sum_{i=1}^N(\mathbf{y}_i-f(\textbf{x}_i)) \mathbf{\Sigma}^{-1} (\mathbf{y}_i-f(\textbf{x}_i))^T
+\end{equation}
+\end{column}
+\end{columns}
+\end{frame}
+
+\begin{frame}{Métodos supervisados}
+\begin{columns}
+\begin{column}{0.9\textwidth}
+En la anterior expresión aparece la distancia de Mahalanobis que se define de la siguiente manera:
+\begin{defi}
+ La \textit{distancia de Mahalanobis} entre dos observaciones $\textbf{x}_i, \textbf{x}_j$ extraídas de una misma población con matriz de covarianzas  $\mathbf{\Sigma}$ se define de la siguiente manera: 
+\begin{equation}
+d_M(\textbf{x}_i, \textbf{x}_j)=\sqrt{(\textbf{x}_i- \textbf{x}_j) \mathbf{\Sigma}^{-1}(\textbf{x}_i-\textbf{x}_j)^T}
+\end{equation}
+\end{defi} 
+
+\emph{Observación:} Se puede definir de manera análoga en el caso de que se conozca la matriz de covarianzas muestral $\mathbf{S}$.
+\end{column}
+\end{columns}
+\end{frame}
+
+\subsubsection{Selección de subconjuntos y métodos penalizados}
+\begin{frame}{Métodos supervisados}
+\begin{columns}
+\begin{column}{0.9\textwidth}
+Se puede utilizar el estadígrafo $F$ de la ecuación \ref{eq: Estimador F} para seleccionar las variables del modelo. 
+
+También se puede definir lo siguiente: 
+\begin{defi} 
+Llamamos errores cuadrados acumulados penalizados, \emph{PRSS}, a la suma de los cuadrados de los errores cometidos con el modelo lineal que usa el  vector de parámetros $\beta$, añadiendo un término regulador $\lambda >0$: 
+\begin{equation}
+PRSS(\beta)=\sum_{i=1}^n(\textbf{y}_i-\textbf{x}_i\beta)^2+\lambda\sum_{j=1}^p\beta_j^2
+\end{equation}
+\end{defi}
+Esto permite dar una forma de regular los tamaños de los parámetros $\beta$
+\end{column}
+\end{columns}
+\end{frame}

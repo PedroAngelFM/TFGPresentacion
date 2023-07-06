@@ -1,13 +1,66 @@
 \documentclass[11pt]{beamer}
 \usetheme{Madrid}
-\usepackage[utf8]{inputenc}
+
 \usepackage[spanish]{babel}
 \usepackage{amsmath}
 \usepackage{amsfonts}
 \usepackage{amssymb}
 \usepackage{graphicx}
+\usepackage{enumerate}
+\usepackage{fancyhdr}
+\usepackage{fancybox}
+\usepackage{lastpage}
+\usepackage{color}
+\usepackage{amsbsy}
+\usepackage{amsthm}
+\usepackage{listings}
+
+
+\usepackage{multirow}
+\usepackage{subfig}
+\usepackage{textcomp}
+\usepackage{makeidx}%glosario de términos
+
+\numberwithin{equation}{section}
+\theoremstyle{definition}
+\newtheorem{defi}{Definición}[section]
+
+\theoremstyle{definition}
+\newtheorem{propo}{Proposición}[section]
+
+\theoremstyle{definition}
+\newtheorem{coro}{Corolario}[section]
+
+\theoremstyle{definition}
+\newtheorem{teorema}{Teorema}[section]
+\setlength{\textwidth}{5in}
+
+\usepackage{srcltx}%permite la busqueda inversa, si no viene por defecto en la version de LaTeX usada.
+
+% lo siguiente solo usarlo cuando compilo directamente en pdflatex
+% si lo uso compilando en latex el {\'\i}ndice no lo hace bien
+\usepackage{hyperref}
+
+\hypersetup{colorlinks=true, linkcolor=black, urlcolor=black, citecolor=black}
+\hypersetup{bookmarksopen=false, bookmarksnumbered=true} \hypersetup{pdfstartview=FitH}
+
 \author{Pedro Ángel Fraile Manzano}
-\title{Revisión de métodos multivariantes supervisados y no supervisados }
+\title{Revisión de métodos multivariantes supervisados y no supervisados}
+\AtBeginSection[]
+{
+  \begin{frame}<beamer>{Contenidos}
+    \tableofcontents[currentsection,currentsubsection]
+  \end{frame}
+}
+
+\AtBeginSubsection[]
+{
+  \begin{frame}<beamer>{Contenidos}
+    \tableofcontents[currentsection,currentsubsection]
+  \end{frame}
+}
+\author{Pedro Ángel Fraile Manzano}
+%\title{}
 %\setbeamercovered{transparent} 
 %\setbeamertemplate{navigation symbols}{} 
 %\logo{} 
@@ -20,12 +73,12 @@
 \titlepage
 \end{frame}
 
-%\begin{frame}
-%\tableofcontents
-%\end{frame}
-
-\begin{frame}{Introducción}
-Se definen los métodos multivariantes como el conjunto de técnicas estadísticas 
+\begin{frame}
+\tableofcontents
 \end{frame}
+
+\input{Documentos Extra/Introducción.tex}
+
+\input{supervisados.tex}
 
 \end{document}
