@@ -10,4 +10,6 @@
 \beamer@subsubsectionintoc {2}{2}{1}{Funciones discriminantes}{34}{0}{2}
 \beamer@subsubsectionintoc {2}{2}{2}{Análisis canónico de poblaciones}{35}{0}{2}
 \beamer@subsectionintoc {2}{3}{Redes neuronales}{36}{0}{2}
-\beamer@subsectionintoc {2}{4}{Arboles de decisión y bosques aleatorios.}{39}{0}{2}
+\beamer@subsectionintoc {2}{4}{Árboles de decisión y bosques aleatorios.}{41}{0}{2}
+\beamer@subsubsectionintoc {2}{4}{1}{Árboles de regresión}{44}{0}{2}
+\beamer@sectionintoc {3}{Métodos no supervisados}{47}{0}{3}
