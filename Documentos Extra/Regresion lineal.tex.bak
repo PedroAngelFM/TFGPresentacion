@@ -50,7 +50,6 @@ Tomando $N$ observaciones, se puede obtener el vector $\mathbf{\hat{y}}$:
 \end{frame}
 
 
-\subsubsection{Métodos de ajuste}
 \begin{frame}{Métodos supervisados}
 \begin{columns}
 \begin{column}{0.9\textwidth}
@@ -94,7 +93,7 @@ Por tanto, el vector de predicciones se puede expresar de la siguiente manera:
 \end{frame}
 
 
-\subsubsection{Inferencias estadísticas sobre $\hat{\beta}$}
+
 \begin{frame}{Métodos supervisados}
 \begin{columns}
 \begin{column}{0.9\textwidth}
@@ -136,7 +135,7 @@ F=\dfrac{\dfrac{(RSS_0-RSS_1)}{p_1-p_0}}{\dfrac{RSS_1}{N-p_1-1}}\sim F_{(p_1,p_0
 \end{columns}
 \end{frame}
 
-\subsubsection{Regresión multivariante}
+
 \begin{frame}{Métodos supervisados}
 \begin{columns}
 \begin{column}{0.9\textwidth}
@@ -180,15 +179,20 @@ d_M(\textbf{x}_i, \textbf{x}_j)=\sqrt{(\textbf{x}_i- \textbf{x}_j) \mathbf{\Sigm
 \end{columns}
 \end{frame}
 
-\subsubsection{Selección de subconjuntos y métodos penalizados}
+
 \begin{frame}{Métodos supervisados}
 \begin{columns}
 \begin{column}{0.9\textwidth}
 Se puede utilizar el estadígrafo $F$ de la ecuación \ref{eq: Estimador F} para seleccionar las variables del modelo. 
 
 También se puede definir lo siguiente: 
-\begin{defi}
+\begin{defi} 
+Llamamos errores cuadrados acumulados penalizados, \emph{PRSS}, a la suma de los cuadrados de los errores cometidos con el modelo lineal que usa el  vector de parámetros $\beta$, añadiendo un término regulador $\lambda >0$: 
+\begin{equation}
+PRSS(\beta)=\sum_{i=1}^n(\textbf{y}_i-\textbf{x}_i\beta)^2+\lambda\sum_{j=1}^p\beta_j^2
+\end{equation}
 \end{defi}
+Esto permite dar una forma de regular los tamaños de los parámetros $\beta$
 \end{column}
 \end{columns}
 \end{frame}

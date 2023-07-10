@@ -2,24 +2,99 @@
 \begin{frame}{Métodos supervisados}
 \begin{columns}
 \begin{column}{0.9\textwidth}
-La clasificación es el caso donde la variable respuesta es categórica o cualitativa. 
+La clasificación es el caso donde la variable respuesta es cualitativa. 
+Hay dos tareas a realizar:
+\begin{itemize}
+ \item Discriminación: Estudiar las características que diferencian a cada una de las poblaciones. 
+ \item Clasificación: Asignar nuevas observaciones a una de las poblaciones 
+\end{itemize}
 \end{column}
 \end{columns}
 \end{frame}
 
-\subsubsection{Funciones discriminantes}
+
 \begin{frame}{Métodos supervisados}
 \begin{columns}
 \begin{column}{0.9\textwidth}
-La clasificación se utiliza
+Si tenemos dos poblaciones $\pi_1, \pi_2$ de las cuales se conocen las funciones de probabilidad de cada una de ellas $f_1,f_2$ , entonces si se conoce la probabilidad de de clasificación de clasificar en la población incorrecta, $P(1|2), P(2|1)$, entonces: 
+\begin{equation}
+\begin{split}
+P(i|\textbf{x}_0)&=\dfrac{P(\textbf{x}_0|i)P(i)}{P(1)P(\textbf{x}_0|1)+P(2)P(\textbf{x}_0|2)}\\&=\dfrac{f_i(\mathbf{x}_0)P(i)}{P(1)f_1(\mathbf{x}_0)+P(2)f_2(\mathbf{x}_0)}
+\end{split}
+\end{equation}
+donde $i=1,2$
 \end{column}
 \end{columns}
 \end{frame}
-\subsubsection{Análisis canónico de poblaciones}
+
 \begin{frame}{Métodos supervisados}
 \begin{columns}
 \begin{column}{0.9\textwidth}
-La clasificación se utiliza
+Se utilizará el concepto de función discriminante: 
+\begin{defi}
+Se llama función discriminante, $f_{d}$ aquella que:
+\begin{equation}
+f_{d}:\mathbf{\Omega}\longrightarrow \mathbb{R},
+\end{equation}
+donde $\mathbf{\Omega}$ es el espacio de observaciones posibles, definida de tal manera que si $f_{d}(\textbf{x}_0)>0\Rightarrow \textbf{x}_0\in \pi_i$ y en caso contrario $\textbf{x}_0\notin \pi_i$. 
+\end{defi}
+\end{column}
+\end{columns}
+\end{frame}
+
+\begin{frame}{Métodos supervisados}
+\begin{columns}
+\begin{column}{0.9\textwidth}
+Teniendo esta definición en mente para dos poblaciones y teniendo  en cuenta el coste de clasificación errónea, se obtiene la siguiente función discriminante:
+
+\begin{equation}
+f_d(\mathbf{x}_0)=\dfrac{f_1(\textbf{x}_0)P(1)}{c(1|2)}-\dfrac{f_2(\textbf{x}_0)P(2)}{c(2|1)}
+\end{equation}
+
+Si se sustituye $f_1,f_2$ por funciones normales se obtiene la función discriminante: 
+\begin{equation}
+\begin{split}
+f_d(\mathbf{x})&=(\textbf{x}-\mu_1)^T \mathbf{\Sigma}^{-1}(\textbf{x}-\mu_1)+log\left(\dfrac{P(1)}{c(1|2)}\right)\\&-(\textbf{x}-\mu_2)^T \mathbf{\Sigma}^{-1} (\textbf{x}-\mu_2)-log\left(\dfrac{P(2)}{c(2|1)}\right)
+\end{split}
+\end{equation}
+
+\end{column}
+\end{columns}
+\end{frame}
+
+\begin{frame}{Métodos supervisados}
+\begin{columns}
+\begin{column}{0.9\textwidth}
+
+El análisis canónico de poblaciones busca identificar las direcciones de mayor diferenciación entre las distintas $L$ poblaciones.
+\begin{defi}
+\noindent La covarianza intragrupo de un par de variables en la $l$-ésima población:
+\begin{equation}
+W_l(X_j,X_{j'})=\dfrac{1}{N_l}\sum_{i\in I_l} (x_{ij}-\overline{x}_{jl})(x_{ij'}-\overline{x}_{j'l})
+\end{equation}   
+\end{defi}
+\begin{defi}
+La covarianza intergrupos
+\begin{equation}
+B(X_j,X_{j'})=\sum_{l=1}^L\dfrac{N_l}{N}(\overline{x}_{jl}-\overline{x}_{j})(\overline{x}_{j'l}-\overline{x}_{j'})
+\end{equation}   
+\end{defi}
+
+\end{column}
+\end{columns}
+\end{frame}
+
+\begin{frame}{Métodos supervisados}
+\begin{columns}
+\begin{column}{0.9\textwidth}
+
+Entonces se buscan combinaciones lineales que maximicen la varianza entre grupos respecto la varianza por tanto, se busca maximizar la función
+\begin{equation}
+f(\mathbf{a})=\dfrac{\mathbf{a}^T\mathbf{Ba}}{\mathbf{a}^T\mathbf{Ta}}
+\end{equation}
+
+Tomando la restricción $\mathbf{a}^T\mathbf{T}\mathbf{a}$ y aplicando los multiplicadores de Lagrange, se obtiene que el vector $\mathbf{a}$ es el vector propio con valor propio máximo $\lambda$ de la matriz $\mathbf{T}^{-1}\mathbf{B}$.
+
 \end{column}
 \end{columns}
 \end{frame}

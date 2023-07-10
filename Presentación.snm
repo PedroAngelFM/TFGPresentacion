@@ -1,6 +1,22 @@
-\beamer@slide {eq: Estimador F}{27}
-\beamer@slide {fig:neurona}{38}
-\beamer@slide {fig:red neuronal}{39}
-\beamer@slide {f:división}{43}
-\beamer@slide {f:diagrama arbol}{43}
-\beamer@slide {f:MARC1}{43}
+\beamer@slide {eq: predicción}{14}
+\beamer@slide {eq: Estimador F}{18}
+\beamer@slide {fig:neurona}{31}
+\beamer@slide {fig:red neuronal}{32}
+\beamer@slide {f:división}{36}
+\beamer@slide {f:diagrama arbol}{36}
+\beamer@slide {f:MARC1}{36}
+\beamer@slide {fig:Balance-sesgo-varianza}{45}
+\beamer@slide {eq Fact}{58}
+\beamer@slide {Descomposición Varianza}{63}
+\beamer@slide {fig:complete_linkage}{74}
+\beamer@slide {fig:single_linkage}{74}
+\beamer@slide {fig:Dendogramas distintos enlaces }{74}
+\beamer@slide {tab:Resumen Variables}{78}
+\beamer@slide {fig:resumen_basicos}{80}
+\beamer@slide {fig:varianza acumulada}{81}
+\beamer@slide {fig:diagrama arbol}{84}
+\beamer@slide {fig:estructura red neuronal}{86}
+\beamer@slide {fig:regresion_lineal}{88}
+\beamer@slide {fig:regression_tree}{88}
+\beamer@slide {fig:red_neuronal}{88}
+\beamer@slide {fig: comparación}{88}

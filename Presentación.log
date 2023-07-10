@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.27)  6 JUL 2023 18:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.27)  10 JUL 2023 07:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -959,24 +959,24 @@ LaTeX Info: Redefining \% on input line 22.
 )
 \openout1 = `Presentación.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1038,63 +1038,63 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring ON on input line 70.
+Package hyperref Info: Link coloring ON on input line 72.
  (Presentación.out) (Presentación.out)
 \@outlinefile=\write6
 \openout6 = `Presentación.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 70.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 72.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 70.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 72.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 70.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 70.
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 72.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 72.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 70.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 72.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 70.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 70.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 72.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 72.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 70.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 72.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 70.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 70.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 72.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 72.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 70.
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 72.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 70.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 70.
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 72.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 72.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 70.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 72.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 70.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 72.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 70.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 72.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 70.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 72.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/b/n --> OT1/cmr/b/n on input line 70.
+(Font)                  OT1/cmss/b/n --> OT1/cmr/b/n on input line 72.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmss/b/n --> OT1/cmss/b/n on input line 70.
+(Font)                  OT1/cmss/b/n --> OT1/cmss/b/n on input line 72.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 70.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 72.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 70.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 72.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 70.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 70.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 72.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 72.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
 (Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 7
-0.
+2.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 7
-0.
+2.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
-ut line 70.
+ut line 72.
 
 (C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-b
 asic-dictionary-English.dict
@@ -1120,46 +1120,34 @@ Dictionary: translator-numbers-dictionary, Language: English
 heorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-LaTeX Info: Redefining \. on input line 70.
-LaTeX Info: Redefining \% on input line 70.
+LaTeX Info: Redefining \. on input line 72.
+LaTeX Info: Redefining \% on input line 72.
 \c@lstlisting=\count366
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: End \AtBeginDocument code.
  (Presentación.nav)
-Overfull \hbox (56.72415pt too wide) in paragraph at lines 70--70
+Overfull \hbox (56.72415pt too wide) in paragraph at lines 72--72
  [][][][][][]  
  []
 
+<Documentos Extra/Imagenes/escudo2tintas.pdf, id=69, 240.9pt x 199.74625pt>
+File: Documentos Extra/Imagenes/escudo2tintas.pdf Graphic file (type pdf)
+<use Documentos Extra/Imagenes/escudo2tintas.pdf>
+Package pdftex.def Info: Documentos Extra/Imagenes/escudo2tintas.pdf  used on i
+nput line 76.
+(pdftex.def)             Requested size: 56.9055pt x 47.1842pt.
 
 Overfull \hbox (56.72415pt too wide) has occurred while \output is active
  [][][][][][]  
  []
 
-[1
+[1{C:/Users/Pedro/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
 
-{C:/Users/Pedro/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-(Presentación.toc
+ <./Documentos Extra/Imagenes/escudo2tintas.pdf>] (Presentación.toc
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 6.
-
-(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 6.
-
-(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on inp
-ut line 6.
-
-(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/sansmathaccent\ot1mathk
-erncmss.fd
-File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/ma
-thkerncmss.
-))
 Overfull \hbox (56.72415pt too wide) has occurred while \output is active
  [][][][][][]  
  []
@@ -1168,7 +1156,7 @@ Overfull \hbox (56.72415pt too wide) has occurred while \output is active
 
 ]
 Package srcltx Info: Expanded filename `Documentos Extra/Introducción.tex' to 
-`Documentos Extra/Introducción.tex' on input line 80.
+`Documentos Extra/Introducción.tex' on input line 82.
 
 :<+ Documentos Extra/Introducción.tex
 (Documentos Extra/Introducción.tex (Presentación.toc
@@ -1182,6 +1170,25 @@ Overfull \hbox (56.72415pt too wide) has occurred while \output is active
 [3
 
 ]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 11.
+
+ (C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 11.
+
+
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on inp
+ut line 11.
+
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/sansmathaccent\ot1mathk
+erncmss.fd
+File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/ma
+thkerncmss.
+)
 Overfull \hbox (56.72415pt too wide) has occurred while \output is active
  [][][][][][]  
  []
@@ -1202,7 +1209,15 @@ Overfull \hbox (56.72415pt too wide) has occurred while \output is active
 
 [6
 
-]
+])
+:<-
+Package srcltx Info: Expanded filename `supervisados.tex' to `supervisados.tex'
+ on input line 84.
+:<+ supervisados.tex
+(supervisados.tex (Presentación.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+)
 Overfull \hbox (56.72415pt too wide) has occurred while \output is active
  [][][][][][]  
  []
@@ -1210,6 +1225,13 @@ Overfull \hbox (56.72415pt too wide) has occurred while \output is active
 [7
 
 ]
+LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <10.95> not available
+(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 16.
+LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <8> not available
+(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 16.
+LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <6> not available
+(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 16.
+
 Overfull \hbox (56.72415pt too wide) has occurred while \output is active
  [][][][][][]  
  []
@@ -1231,18 +1253,11 @@ Overfull \hbox (56.72415pt too wide) has occurred while \output is active
 [10
 
 ]
-Overfull \hbox (56.72415pt too wide) has occurred while \output is active
- [][][][][][]  
- []
+Package srcltx Info: Expanded filename `Documentos Extra/Regresion lineal.tex' 
+to `Documentos Extra/Regresion lineal.tex' on input line 42.
 
-[11
-
-])
-:<-
-Package srcltx Info: Expanded filename `supervisados.tex' to `supervisados.tex'
- on input line 82.
-:<+ supervisados.tex
-(supervisados.tex (Presentación.toc
+:<+ Documentos Extra/Regresion lineal.tex
+(Documentos Extra/Regresion lineal.tex (Presentación.toc
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 )
@@ -1250,16 +1265,16 @@ Overfull \hbox (56.72415pt too wide) has occurred while \output is active
  [][][][][][]  
  []
 
+[11
+
+]
+Overfull \hbox (56.72415pt too wide) has occurred while \output is active
+ [][][][][][]  
+ []
+
 [12
 
 ]
-LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <10.95> not available
-(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 16.
-LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <8> not available
-(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 16.
-LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <6> not available
-(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 16.
-
 Overfull \hbox (56.72415pt too wide) has occurred while \output is active
  [][][][][][]  
  []
@@ -1295,18 +1310,6 @@ Overfull \hbox (56.72415pt too wide) has occurred while \output is active
 [17
 
 ]
-Package srcltx Info: Expanded filename `Documentos Extra/Regresion lineal.tex' 
-to `Documentos Extra/Regresion lineal.tex' on input line 42.
-
-:<+ Documentos Extra/Regresion lineal.tex
-(Documentos Extra/Regresion lineal.tex (Presentación.toc
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
-LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <9> not available
-(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 6.
-LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <5> not available
-(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 6.
-)
 Overfull \hbox (56.72415pt too wide) has occurred while \output is active
  [][][][][][]  
  []
@@ -1334,7 +1337,15 @@ Overfull \hbox (56.72415pt too wide) has occurred while \output is active
 
 [21
 
-]
+])
+:<-
+Package srcltx Info: Expanded filename `Documentos Extra/Clasificacion.tex' to 
+`Documentos Extra/Clasificacion.tex' on input line 44.
+:<+ Documentos Extra/Clasificacion.tex
+(Documentos Extra/Clasificacion.tex (Presentación.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+)
 Overfull \hbox (56.72415pt too wide) has occurred while \output is active
  [][][][][][]  
  []
@@ -1383,7 +1394,15 @@ Overfull \hbox (56.72415pt too wide) has occurred while \output is active
 
 [28
 
-]
+])
+:<-
+Package srcltx Info: Expanded filename `Documentos Extra/Redes neuronales.tex' 
+to `Documentos Extra/Redes neuronales.tex' on input line 46.
+:<+ Documentos Extra/Redes neuronales.tex
+(Documentos Extra/Redes neuronales.tex (Presentación.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+)
 Overfull \hbox (56.72415pt too wide) has occurred while \output is active
  [][][][][][]  
  []
@@ -1398,72 +1417,7 @@ Overfull \hbox (56.72415pt too wide) has occurred while \output is active
 [30
 
 ]
-Overfull \hbox (56.72415pt too wide) has occurred while \output is active
- [][][][][][]  
- []
-
-[31
-
-])
-:<-
-Package srcltx Info: Expanded filename `Documentos Extra/Clasificacion.tex' to 
-`Documentos Extra/Clasificacion.tex' on input line 44.
-:<+ Documentos Extra/Clasificacion.tex
-(Documentos Extra/Clasificacion.tex (Presentación.toc
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
-)
-Overfull \hbox (56.72415pt too wide) has occurred while \output is active
- [][][][][][]  
- []
-
-[32
-
-]
-Overfull \hbox (56.72415pt too wide) has occurred while \output is active
- [][][][][][]  
- []
-
-[33
-
-]
-Overfull \hbox (56.72415pt too wide) has occurred while \output is active
- [][][][][][]  
- []
-
-[34
-
-]
-Overfull \hbox (56.72415pt too wide) has occurred while \output is active
- [][][][][][]  
- []
-
-[35
-
-])
-:<-
-Package srcltx Info: Expanded filename `Documentos Extra/Redes neuronales.tex' 
-to `Documentos Extra/Redes neuronales.tex' on input line 46.
-:<+ Documentos Extra/Redes neuronales.tex
-(Documentos Extra/Redes neuronales.tex (Presentación.toc
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
-)
-Overfull \hbox (56.72415pt too wide) has occurred while \output is active
- [][][][][][]  
- []
-
-[36
-
-]
-Overfull \hbox (56.72415pt too wide) has occurred while \output is active
- [][][][][][]  
- []
-
-[37
-
-]
-<Documentos Extra/Imagenes/neurona.png, id=1256, 443.40656pt x 237.13594pt>
+<Documentos Extra/Imagenes/neurona.png, id=1054, 443.40656pt x 237.13594pt>
 File: Documentos Extra/Imagenes/neurona.png Graphic file (type png)
 <use Documentos Extra/Imagenes/neurona.png>
 Package pdftex.def Info: Documentos Extra/Imagenes/neurona.png  used on input l
@@ -1473,15 +1427,17 @@ LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <10> not available
 (Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 31.
 LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <7> not available
 (Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 31.
+LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <5> not available
+(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 31.
 
 Overfull \hbox (56.72415pt too wide) has occurred while \output is active
  [][][][][][]  
  []
 
-[38
+[31
 
  <./Documentos Extra/Imagenes/neurona.png>]
-<Documentos Extra/Imagenes/red-neuronal-grande.png, id=1289, 556.0775pt x 301.1
+<Documentos Extra/Imagenes/red-neuronal-grande.png, id=1088, 556.0775pt x 301.1
 25pt>
 File: Documentos Extra/Imagenes/red-neuronal-grande.png Graphic file (type png)
 
@@ -1494,14 +1450,14 @@ Overfull \hbox (56.72415pt too wide) has occurred while \output is active
  [][][][][][]  
  []
 
-[39
+[32
 
  <./Documentos Extra/Imagenes/red-neuronal-grande.png>]
 Overfull \hbox (56.72415pt too wide) has occurred while \output is active
  [][][][][][]  
  []
 
-[40
+[33
 
 ])
 :<-
@@ -1516,24 +1472,26 @@ Overfull \hbox (56.72415pt too wide) has occurred while \output is active
  [][][][][][]  
  []
 
-[41
+[34
 
 ]
 Overfull \hbox (56.72415pt too wide) has occurred while \output is active
  [][][][][][]  
  []
 
-[42
+[35
 
 ]
-<Documentos Extra/Imagenes/Regiones árboles.png, id=1423, 338.01282pt x 302.63
+<Documentos Extra/Imagenes/Regiones árboles.png, id=1219, 338.01282pt x 302.63
 063pt>
 File: Documentos Extra/Imagenes/Regiones árboles.png Graphic file (type png)
 <use Documentos Extra/Imagenes/Regiones árboles.png>
 Package pdftex.def Info: Documentos Extra/Imagenes/Regiones árboles.png  used 
 on input line 36.
 (pdftex.def)             Requested size: 81.30319pt x 72.78983pt.
-<Documentos Extra/Imagenes/Diagrama de arbol.png, id=1424, 287.57437pt x 279.29
+LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <9> not available
+(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 36.
+<Documentos Extra/Imagenes/Diagrama de arbol.png, id=1220, 287.57437pt x 279.29
 344pt>
 File: Documentos Extra/Imagenes/Diagrama de arbol.png Graphic file (type png)
 <use Documentos Extra/Imagenes/Diagrama de arbol.png>
@@ -1549,7 +1507,7 @@ Overfull \hbox (56.72415pt too wide) has occurred while \output is active
  [][][][][][]  
  []
 
-[43
+[36
 
  <./Documentos Extra/Imagenes/Regiones árboles.png> <./Documentos Extra/Imagen
 es/Diagrama de arbol.png>]
@@ -1557,16 +1515,74 @@ Overfull \hbox (56.72415pt too wide) has occurred while \output is active
  [][][][][][]  
  []
 
-[44
+[37
 
 ]
 Overfull \hbox (56.72415pt too wide) has occurred while \output is active
  [][][][][][]  
  []
 
-[45
+[38
 
 ]
+Overfull \hbox (56.72415pt too wide) has occurred while \output is active
+ [][][][][][]  
+ []
+
+[39
+
+]
+Overfull \hbox (56.72415pt too wide) has occurred while \output is active
+ [][][][][][]  
+ []
+
+[40
+
+]
+Overfull \hbox (56.72415pt too wide) has occurred while \output is active
+ [][][][][][]  
+ []
+
+[41
+
+]
+Overfull \hbox (56.72415pt too wide) has occurred while \output is active
+ [][][][][][]  
+ []
+
+[42
+
+]
+Overfull \hbox (56.72415pt too wide) has occurred while \output is active
+ [][][][][][]  
+ []
+
+[43
+
+]
+Overfull \hbox (56.72415pt too wide) has occurred while \output is active
+ [][][][][][]  
+ []
+
+[44
+
+]
+<Documentos Extra/Imagenes/Bias-Variance-Tradeoff.png, id=1499, 559.33969pt x 3
+44.03531pt>
+File: Documentos Extra/Imagenes/Bias-Variance-Tradeoff.png Graphic file (type p
+ng)
+<use Documentos Extra/Imagenes/Bias-Variance-Tradeoff.png>
+Package pdftex.def Info: Documentos Extra/Imagenes/Bias-Variance-Tradeoff.png  
+used on input line 186.
+(pdftex.def)             Requested size: 251.70053pt x 154.81445pt.
+
+Overfull \hbox (56.72415pt too wide) has occurred while \output is active
+ [][][][][][]  
+ []
+
+[45
+
+ <./Documentos Extra/Imagenes/Bias-Variance-Tradeoff.png>]
 Overfull \hbox (56.72415pt too wide) has occurred while \output is active
  [][][][][][]  
  []
@@ -1578,7 +1594,7 @@ Overfull \hbox (56.72415pt too wide) has occurred while \output is active
 )
 :<-
 Package srcltx Info: Expanded filename `no supervisados.tex' to `no supervisado
-s.tex' on input line 83.
+s.tex' on input line 86.
 :<+ no supervisados.tex
 (no supervisados.tex (Presentación.toc
 LaTeX Info: Redefining \. on input line 1.
@@ -1597,7 +1613,405 @@ Overfull \hbox (56.72415pt too wide) has occurred while \output is active
 
 [48
 
+]
+Package srcltx Info: Expanded filename `Documentos Extra/PCA.tex' to `Documento
+s Extra/PCA.tex' on input line 11.
+
+:<+ Documentos Extra/PCA.tex
+(Documentos Extra/PCA.tex (Presentación.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+)
+Overfull \hbox (56.72415pt too wide) has occurred while \output is active
+ [][][][][][]  
+ []
+
+[49
+
+]
+Overfull \hbox (56.72415pt too wide) has occurred while \output is active
+ [][][][][][]  
+ []
+
+[50
+
+]
+Overfull \vbox (0.76024pt too high) detected at line 53
+ []
+
+
+Overfull \hbox (56.72415pt too wide) has occurred while \output is active
+ [][][][][][]  
+ []
+
+[51
+
+]
+Overfull \hbox (56.72415pt too wide) has occurred while \output is active
+ [][][][][][]  
+ []
+
+[52
+
+]
+Overfull \hbox (56.72415pt too wide) has occurred while \output is active
+ [][][][][][]  
+ []
+
+[53
+
+]
+Overfull \hbox (56.72415pt too wide) has occurred while \output is active
+ [][][][][][]  
+ []
+
+[54
+
+]
+Overfull \hbox (56.72415pt too wide) has occurred while \output is active
+ [][][][][][]  
+ []
+
+[55
+
 ])
+:<-
+Package srcltx Info: Expanded filename `Documentos Extra/FA.tex' to `Documentos
+ Extra/FA.tex' on input line 13.
+:<+ Documentos Extra/FA.tex
+(Documentos Extra/FA.tex (Presentación.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+)
+Overfull \hbox (56.72415pt too wide) has occurred while \output is active
+ [][][][][][]  
+ []
+
+[56
+
+]
+Overfull \hbox (56.72415pt too wide) has occurred while \output is active
+ [][][][][][]  
+ []
+
+[57
+
+]
+Overfull \hbox (56.72415pt too wide) has occurred while \output is active
+ [][][][][][]  
+ []
+
+[58
+
+]
+Overfull \hbox (56.72415pt too wide) has occurred while \output is active
+ [][][][][][]  
+ []
+
+[59
+
+]
+Overfull \hbox (56.72415pt too wide) has occurred while \output is active
+ [][][][][][]  
+ []
+
+[60
+
+]
+Overfull \hbox (56.72415pt too wide) has occurred while \output is active
+ [][][][][][]  
+ []
+
+[61
+
+]
+Overfull \hbox (56.72415pt too wide) has occurred while \output is active
+ [][][][][][]  
+ []
+
+[62
+
+]
+Overfull \hbox (56.72415pt too wide) has occurred while \output is active
+ [][][][][][]  
+ []
+
+[63
+
+]
+Overfull \hbox (56.72415pt too wide) has occurred while \output is active
+ [][][][][][]  
+ []
+
+[64
+
+]
+Overfull \hbox (56.72415pt too wide) has occurred while \output is active
+ [][][][][][]  
+ []
+
+[65
+
+]
+Overfull \hbox (56.72415pt too wide) has occurred while \output is active
+ [][][][][][]  
+ []
+
+[66
+
+]
+Overfull \hbox (56.72415pt too wide) has occurred while \output is active
+ [][][][][][]  
+ []
+
+[67
+
+])
+:<-
+Package srcltx Info: Expanded filename `Documentos Extra/CA.tex' to `Documentos
+ Extra/CA.tex' on input line 15.
+:<+ Documentos Extra/CA.tex
+(Documentos Extra/CA.tex (Presentación.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+)
+Overfull \hbox (56.72415pt too wide) has occurred while \output is active
+ [][][][][][]  
+ []
+
+[68
+
+]
+Overfull \hbox (56.72415pt too wide) has occurred while \output is active
+ [][][][][][]  
+ []
+
+[69
+
+]
+Overfull \hbox (56.72415pt too wide) has occurred while \output is active
+ [][][][][][]  
+ []
+
+[70
+
+]
+Overfull \hbox (56.72415pt too wide) has occurred while \output is active
+ [][][][][][]  
+ []
+
+[71
+
+]
+Overfull \hbox (56.72415pt too wide) has occurred while \output is active
+ [][][][][][]  
+ []
+
+[72
+
+]
+Overfull \hbox (56.72415pt too wide) has occurred while \output is active
+ [][][][][][]  
+ []
+
+[73
+
+]
+<Documentos Extra/Imagenes/complete_linkage.png, id=2501, 420.6114pt x 419.8887
+pt>
+File: Documentos Extra/Imagenes/complete_linkage.png Graphic file (type png)
+<use Documentos Extra/Imagenes/complete_linkage.png>
+Package pdftex.def Info: Documentos Extra/Imagenes/complete_linkage.png  used o
+n input line 106.
+(pdftex.def)             Requested size: 113.82645pt x 113.62775pt.
+<Documentos Extra/Imagenes/single_linkage.png, id=2502, 430.0065pt x 419.8887pt
+>
+File: Documentos Extra/Imagenes/single_linkage.png Graphic file (type png)
+<use Documentos Extra/Imagenes/single_linkage.png>
+Package pdftex.def Info: Documentos Extra/Imagenes/single_linkage.png  used on 
+input line 106.
+(pdftex.def)             Requested size: 113.82645pt x 111.14824pt.
+
+Overfull \hbox (56.72415pt too wide) has occurred while \output is active
+ [][][][][][]  
+ []
+
+[74
+
+ <./Documentos Extra/Imagenes/complete_linkage.png> <./Documentos Extra/Imagene
+s/single_linkage.png>]
+Overfull \hbox (56.72415pt too wide) has occurred while \output is active
+ [][][][][][]  
+ []
+
+[75
+
+]
+Overfull \hbox (56.72415pt too wide) has occurred while \output is active
+ [][][][][][]  
+ []
+
+[76
+
+])
+:<-
+)
+:<-
+Package srcltx Info: Expanded filename `Aplicación.tex' to `Aplicación.tex' o
+n input line 88.
+:<+ Aplicación.tex
+(Aplicación.tex (Presentación.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+)
+Overfull \hbox (56.72415pt too wide) has occurred while \output is active
+ [][][][][][]  
+ []
+
+[77
+
+]
+Overfull \hbox (56.72415pt too wide) has occurred while \output is active
+ [][][][][][]  
+ []
+
+[78
+
+]
+Overfull \hbox (56.72415pt too wide) has occurred while \output is active
+ [][][][][][]  
+ []
+
+[79
+
+]
+<Documentos Extra/Imagenes/Resumen_Basicos.png, id=2687, 931.22906pt x 250.6865
+7pt>
+File: Documentos Extra/Imagenes/Resumen_Basicos.png Graphic file (type png)
+<use Documentos Extra/Imagenes/Resumen_Basicos.png>
+Package pdftex.def Info: Documentos Extra/Imagenes/Resumen_Basicos.png  used on
+ input line 55.
+(pdftex.def)             Requested size: 279.37086pt x 75.20654pt.
+
+Overfull \hbox (56.72415pt too wide) has occurred while \output is active
+ [][][][][][]  
+ []
+
+[80
+
+ <./Documentos Extra/Imagenes/Resumen_Basicos.png>]
+<Documentos Extra/Imagenes/Gráfico_varianza_explicada.png, id=2716, 409.7709pt
+ x 312.9291pt>
+File: Documentos Extra/Imagenes/Gráfico_varianza_explicada.png Graphic file (t
+ype png)
+<use Documentos Extra/Imagenes/Gráfico_varianza_explicada.png>
+Package pdftex.def Info: Documentos Extra/Imagenes/Gráfico_varianza_explicada.
+png  used on input line 74.
+(pdftex.def)             Requested size: 122.9322pt x 93.87944pt.
+
+Overfull \hbox (56.72415pt too wide) has occurred while \output is active
+ [][][][][][]  
+ []
+
+[81
+
+ <./Documentos Extra/Imagenes/Gráfico_varianza_explicada.png>]
+Overfull \hbox (56.72415pt too wide) has occurred while \output is active
+ [][][][][][]  
+ []
+
+[82
+
+]
+Overfull \hbox (56.72415pt too wide) has occurred while \output is active
+ [][][][][][]  
+ []
+
+[83
+
+]
+<Documentos Extra/Imagenes/Arbol.png, id=2797, 627.3036pt x 570.933pt>
+File: Documentos Extra/Imagenes/Arbol.png Graphic file (type png)
+<use Documentos Extra/Imagenes/Arbol.png>
+Package pdftex.def Info: Documentos Extra/Imagenes/Arbol.png  used on input lin
+e 127.
+(pdftex.def)             Requested size: 207.01082pt x 188.40846pt.
+
+Overfull \hbox (56.72415pt too wide) has occurred while \output is active
+ [][][][][][]  
+ []
+
+[84
+
+ <./Documentos Extra/Imagenes/Arbol.png>]
+Overfull \hbox (56.72415pt too wide) has occurred while \output is active
+ [][][][][][]  
+ []
+
+[85
+
+]
+<Documentos Extra/Imagenes/concrete archiquecture.png, id=2853, 1066.7353pt x 7
+33.99219pt>
+File: Documentos Extra/Imagenes/concrete archiquecture.png Graphic file (type p
+ng)
+<use Documentos Extra/Imagenes/concrete archiquecture.png>
+Package pdftex.def Info: Documentos Extra/Imagenes/concrete archiquecture.png  
+used on input line 164.
+(pdftex.def)             Requested size: 266.68317pt x 183.49759pt.
+
+Overfull \vbox (2.427pt too high) detected at line 164
+ []
+
+
+Overfull \hbox (56.72415pt too wide) has occurred while \output is active
+ [][][][][][]  
+ []
+
+[86
+
+ <./Documentos Extra/Imagenes/concrete archiquecture.png>]
+Overfull \hbox (56.72415pt too wide) has occurred while \output is active
+ [][][][][][]  
+ []
+
+[87
+
+]
+<Documentos Extra/Imagenes/Datos PruebasRegresionLineal.png, id=2907, 406.8801p
+t x 328.1058pt>
+File: Documentos Extra/Imagenes/Datos PruebasRegresionLineal.png Graphic file (
+type png)
+<use Documentos Extra/Imagenes/Datos PruebasRegresionLineal.png>
+Package pdftex.def Info: Documentos Extra/Imagenes/Datos PruebasRegresionLineal
+.png  used on input line 212.
+(pdftex.def)             Requested size: 97.56482pt x 78.67189pt.
+<Documentos Extra/Imagenes/Datos PruebasÁrbolesRegresion.png, id=2908, 406.880
+1pt x 328.1058pt>
+File: Documentos Extra/Imagenes/Datos PruebasÁrbolesRegresion.png Graphic file
+ (type png)
+<use Documentos Extra/Imagenes/Datos PruebasÁrbolesRegresion.png>
+Package pdftex.def Info: Documentos Extra/Imagenes/Datos PruebasÁrbolesRegresi
+on.png  used on input line 212.
+(pdftex.def)             Requested size: 97.56482pt x 78.67189pt.
+<Documentos Extra/Imagenes/Datos PruebasRedNeuronal.png, id=2909, 406.8801pt x 
+328.1058pt>
+File: Documentos Extra/Imagenes/Datos PruebasRedNeuronal.png Graphic file (type
+ png)
+<use Documentos Extra/Imagenes/Datos PruebasRedNeuronal.png>
+Package pdftex.def Info: Documentos Extra/Imagenes/Datos PruebasRedNeuronal.png
+  used on input line 212.
+(pdftex.def)             Requested size: 97.56482pt x 78.67189pt.
+
+Overfull \hbox (56.72415pt too wide) has occurred while \output is active
+ [][][][][][]  
+ []
+
+[88
+
+ <./Documentos Extra/Imagenes/Datos PruebasRegresionLineal.png> <./Documentos E
+xtra/Imagenes/Datos PruebasÁrbolesRegresion.png> <./Documentos Extra/Imagenes/
+Datos PruebasRedNeuronal.png>])
 :<-
 \tf@nav=\write7
 \openout7 = `Presentación.nav'.
@@ -1615,36 +2029,36 @@ LaTeX Info: Redefining \. on input line 22.
 LaTeX Info: Redefining \% on input line 22.
 )
 Package rerunfilecheck Info: File `Presentación.out' has not changed.
-(rerunfilecheck)             Checksum: C022490F71163975742544B945B21FEE;1208.
+(rerunfilecheck)             Checksum: C253838FFCB0E307D9DBDF309E7519D0;1871.
  ) 
 Here is how much of TeX's memory you used:
- 27432 strings out of 476334
- 535391 string characters out of 5787971
- 1869382 words of memory out of 5000000
- 47151 multiletter control sequences out of 15000+600000
+ 27864 strings out of 476334
+ 547500 string characters out of 5787971
+ 1873382 words of memory out of 5000000
+ 47459 multiletter control sequences out of 15000+600000
  528029 words of font info for 88 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,16n,122p,407b,985s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 128i,24n,122p,407b,1138s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
 cmex10.pfb><C:/Users/Pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
 fonts/cm/cmmi10.pfb><C:/Users/Pedro/AppData/Local/Programs/MiKTeX/fonts/type1/p
 ublic/amsfonts/cm/cmmi8.pfb><C:/Users/Pedro/AppData/Local/Programs/MiKTeX/fonts
-/type1/public/amsfonts/cm/cmmi9.pfb><C:/Users/Pedro/AppData/Local/Programs/MiKT
-eX/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/Pedro/AppData/Local/Prog
-rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Users/Pedro/AppData/L
-ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Users/Pedro/A
-ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss9.pfb><C:/Users
-/Pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pf
-b><C:/Users/Pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
-cmssi10.pfb><C:/Users/Pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
-sfonts/cm/cmssi8.pfb><C:/Users/Pedro/AppData/Local/Programs/MiKTeX/fonts/type1/
-public/amsfonts/cm/cmsy10.pfb><C:/Users/Pedro/AppData/Local/Programs/MiKTeX/fon
+/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/Pedro/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Users/Pedro/AppData/Local/Pro
+grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Users/Pedro/AppData/L
+ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss9.pfb><C:/Users/Pedro/A
+ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Us
+ers/Pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi10.
+pfb><C:/Users/Pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
+m/cmssi8.pfb><C:/Users/Pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
+msfonts/cm/cmsy10.pfb><C:/Users/Pedro/AppData/Local/Programs/MiKTeX/fonts/type1
+/public/amsfonts/cm/cmsy6.pfb><C:/Users/Pedro/AppData/Local/Programs/MiKTeX/fon
 ts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Pedro/AppData/Local/Programs/Mi
 KTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Users/Pedro/AppData/Local/Pr
 ograms/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on Presentación.pdf (48 pages, 704008 bytes).
+Output written on Presentación.pdf (88 pages, 1452043 bytes).
 PDF statistics:
- 1690 PDF objects out of 1728 (max. 8388607)
- 117 named destinations out of 1000 (max. 500000)
- 563 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 3053 PDF objects out of 3580 (max. 8388607)
+ 210 named destinations out of 1000 (max. 500000)
+ 1322 words of extra memory for PDF output out of 10000 (max. 10000000)
 

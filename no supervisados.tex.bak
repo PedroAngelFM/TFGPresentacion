@@ -2,9 +2,14 @@
 \begin{frame}{Métodos no supervisados}
 \begin{columns}
 \begin{column}{0.9\textwidth}
-
+Los métodos no supervisados son aquellos que buscan analizar la estructura subyacente de los datos. De esta manera no hay una diferenciación de variables, sino que se analizan las relaciones entre las variables. 
 \end{column}
 \end{columns}
 \end{frame}
 
 
+\input{Documentos Extra/PCA.tex}
+
+\input{Documentos Extra/FA.tex}
+
+\input{Documentos Extra/CA.tex}

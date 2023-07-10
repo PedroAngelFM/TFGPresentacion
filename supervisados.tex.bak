@@ -6,9 +6,9 @@
 Son aquellos que buscan inferir una relación estocástica entre dos grupos de variables, predictoras a partir de un conjunto de datos procedentes de observaciones simultáneas de ambos conjuntos. 
 \end{defi}
 
-Si se estudian varias variables de manera simultánea, se dividen en los siguientes tipos:\pause
+Si se estudian varias variables de manera simultánea, se dividen en los siguientes tipos:
 \begin{itemize}
-\item Variables predictoras, son las variables independientes, se denotarán por el vector aleatorio $\mathbf{x}=[X_1,\ldots, X_p]$ \pause
+\item Variables predictoras, son las variables independientes, se denotarán por el vector aleatorio $\mathbf{x}=[X_1,\ldots, X_p]$ 
 \item Variables respuesta, son las variables dependientes, se denotarán como el vector aleatorio $\mathbf{y}=[Y_1,\ldots, Y_K]$ y como $Y$ cuando $K=1$.
 \end{itemize}
 \end{column}

@@ -41,7 +41,7 @@ f(\mathbf{x})=\mathbf{x}\beta
 \end{equation}
 
 Tomando $N$ observaciones, se puede obtener el vector $\mathbf{\hat{y}}$:
-\begin{equation}
+\begin{equation}\label{eq: predicción}
 \mathbf{\hat{y}}=\mathbf{X}\beta
 \end{equation}
 
@@ -50,51 +50,26 @@ Tomando $N$ observaciones, se puede obtener el vector $\mathbf{\hat{y}}$:
 \end{frame}
 
 
-\subsubsection{Métodos de ajuste}
 \begin{frame}{Métodos supervisados}
 \begin{columns}
 \begin{column}{0.9\textwidth}
-\begin{defi}
-Llamamos error de predicción cuadrático entre una variable observable $Y$ y la predicción obtenida por un cierto modelo $\hat{Y}$ a la expresión $(Y-\hat{Y})^2$
-\end{defi}
-Para medir la bondad de ajuste al tomar una muestra de $N$ observaciones se puede utilizar la suma de errores cuadráticos, $RSS$
-\begin{equation}
-RSS(\beta)=\sum_{i=1}^N(y_i-\mathbf{x}\beta)^2=(\mathbf{y}-\mathbf{X}\beta)(\mathbf{y}-\mathbf{X}\beta)^T
-\end{equation}
-\end{column}
-\end{columns}
-\end{frame}
-
-
-
-\begin{frame}{Métodos supervisados}
-\begin{columns}
-\begin{column}{0.9\textwidth}
-Se puede obtener una estimación de $\beta$ minimizando $RSS$ respecto de $\beta$, obtiendose que en el caso de que $\mathbf{X}$ sea de rango máximo la siguiente expresión:
+Se pueden estimar los parámetros de regresión mediante el método de los mínimos cuadrados:
 \begin{equation}
 \hat{\beta}=(\mathbf{X}^T\mathbf{X})^{-1}\mathbf{X}^T \mathbf{y}
 \end{equation}
-\begin{propo}
-Con los supuestos del modelo, la estimación mediante mínimos cuadrados es equivalente  al método de máxima verosimilitud
-\end{propo}
-\end{column}
-\end{columns}
-\end{frame}
 
-
-\begin{frame}{Métodos supervisados}
-\begin{columns}
-\begin{column}{0.9\textwidth}
-Por tanto, el vector de predicciones se puede expresar de la siguiente manera:
+Sustituyendo en la ecuación \ref{eq: predicción}
 \begin{equation}
 \mathbf{\hat{y}}= \mathbf{X}(\mathbf{X}^T\mathbf{X})^{-1}\mathbf{X}^T \mathbf{y}
 \end{equation}
+
 \end{column}
 \end{columns}
 \end{frame}
 
 
-\subsubsection{Inferencias estadísticas sobre $\hat{\beta}$}
+
+
 \begin{frame}{Métodos supervisados}
 \begin{columns}
 \begin{column}{0.9\textwidth}
@@ -136,7 +111,7 @@ F=\dfrac{\dfrac{(RSS_0-RSS_1)}{p_1-p_0}}{\dfrac{RSS_1}{N-p_1-1}}\sim F_{(p_1,p_0
 \end{columns}
 \end{frame}
 
-\subsubsection{Regresión multivariante}
+
 \begin{frame}{Métodos supervisados}
 \begin{columns}
 \begin{column}{0.9\textwidth}
@@ -160,27 +135,13 @@ El método de los mínimos cuadrados, cambia en el caso de que los errores tenga
 \begin{equation}
 RSS(\textbf{B},\mathbf{\Sigma})=\sum_{i=1}^N(\mathbf{y}_i-f(\textbf{x}_i)) \mathbf{\Sigma}^{-1} (\mathbf{y}_i-f(\textbf{x}_i))^T
 \end{equation}
+
+donde $d(\mathbf{x}_i,\mathbf{x}_j)=\sqrt{(\mathbf{x}_i-\mathbf{x}_j) \mathbf{\Sigma}^{-1} (\mathbf{x}_i-\mathbf{x}_j)^T}$ es la distancia de Mahalanobis entre dos observaciones. 
 \end{column}
 \end{columns}
 \end{frame}
 
-\begin{frame}{Métodos supervisados}
-\begin{columns}
-\begin{column}{0.9\textwidth}
-En la anterior expresión aparece la distancia de Mahalanobis que se define de la siguiente manera:
-\begin{defi}
- La \textit{distancia de Mahalanobis} entre dos observaciones $\textbf{x}_i, \textbf{x}_j$ extraídas de una misma población con matriz de covarianzas  $\mathbf{\Sigma}$ se define de la siguiente manera: 
-\begin{equation}
-d_M(\textbf{x}_i, \textbf{x}_j)=\sqrt{(\textbf{x}_i- \textbf{x}_j) \mathbf{\Sigma}^{-1}(\textbf{x}_i-\textbf{x}_j)^T}
-\end{equation}
-\end{defi} 
 
-\emph{Observación:} Se puede definir de manera análoga en el caso de que se conozca la matriz de covarianzas muestral $\mathbf{S}$.
-\end{column}
-\end{columns}
-\end{frame}
-
-\subsubsection{Selección de subconjuntos y métodos penalizados}
 \begin{frame}{Métodos supervisados}
 \begin{columns}
 \begin{column}{0.9\textwidth}

@@ -23,16 +23,16 @@
 
 \numberwithin{equation}{section}
 \theoremstyle{definition}
-\newtheorem{defi}{Definición}[section]
+\newtheorem{defi}{Definición}[subsection]
 
 \theoremstyle{definition}
-\newtheorem{propo}{Proposición}[section]
+\newtheorem{propo}{Proposición}[subsection]
 
 \theoremstyle{definition}
-\newtheorem{coro}{Corolario}[section]
+\newtheorem{coro}{Corolario}[subsection]
 
 \theoremstyle{definition}
-\newtheorem{teorema}{Teorema}[section]
+\newtheorem{teorema}{Teorema}[subsection]
 \setlength{\textwidth}{5in}
 
 \usepackage{srcltx}%permite la busqueda inversa, si no viene por defecto en la version de LaTeX usada.
@@ -59,13 +59,15 @@
     \tableofcontents[currentsection,currentsubsection]
   \end{frame}
 }
+
 \author{Pedro Ángel Fraile Manzano}
 %\title{}
 %\setbeamercovered{transparent} 
 %\setbeamertemplate{navigation symbols}{} 
-%\logo{} 
+\logo{Documentos Extra/Imagenes/escudo2tintas.pdf} 
+\titlegraphic{\includegraphics[width=2cm]{Documentos Extra/Imagenes/escudo2tintas.pdf}}
 %\institute{} 
-%\date{} 
+\date{12 de julio de 2023} 
 %\subject{} 
 \begin{document}
 
@@ -80,6 +82,9 @@
 \input{Documentos Extra/Introducción.tex}
 
 \input{supervisados.tex}
+
 \input{no supervisados.tex}
+
+\input{Aplicación.tex}
 
 \end{document}

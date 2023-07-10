@@ -1,0 +1,127 @@
+\subsection{Análisis de componentes principales}
+\begin{frame}{Métodos no supervisados}
+\begin{columns}
+\begin{column}{0.9\textwidth}
+Dado un vector aleatorio $\mathbf{x}$ de longitud $p$. Sea $r=rg(\mathbf{X})$. Entonces se definen las componentes principales:
+\begin{defi}
+Se definen las componentes principales 
+\begin{equation}
+Z_j=v_{1j}X_1+\ldots v_{pj}X_p=\mathbf{v}_j^T\mathbf{x}^T \quad j=1\ldots r
+\end{equation}
+
+\noindent Donde $\textbf{v}_j$ es un vector columna con $p$ escalares y la nueva variable aleatoria $Z_j$ cumple lo siguiente:
+\begin{itemize}
+\item Si $j=1$ $Var(Z_1)$ es máxima restringido a $\mathbf{v}_1^T \mathbf{v}_1=1$
+\item Si $j>1$ debe cumplir:
+\begin{itemize}
+\item $Cov(Z_j,Z_i)=0\quad \forall i\neq j $
+\item $\textbf{v}_j^T \textbf{v}_j=1$
+\item $Var(Z_j)$ es máxima. 
+\end{itemize}
+\end{itemize}
+\end{defi}
+\end{column}
+\end{columns}
+\end{frame}
+
+
+\begin{frame}{Métodos no supervisados}
+\begin{columns}
+\begin{column}{0.9\textwidth}
+\begin{defi}
+Dada una matriz $\textbf{X}\in  \mathbb{M}_{N\times p}(\mathbb{R})$ existe la descomposición en valores singulares :
+\begin{equation}
+\textbf{X}=\textbf{U}\mathbf{D}\textbf{V}^T
+\end{equation}
+Donde: 
+\begin{itemize}
+\item \textbf{U} matriz ortogonal y de tamaño $N \times r$
+\item $\mathbf{D}$ matriz de tamaño $r \times r$ diagonal, cuyos elementos no nulos son los valores singulares $\sigma_1\geq\ldots\geq \sigma_r\geq 0$, es decir
+\begin{equation}
+\mathbf{D}=\begin{pmatrix}
+\sigma_1 & 0 & \cdots  & \cdots \\
+0 & \sigma_2 & 0 & \cdots\\
+\vdots & \vdots & \vdots & \vdots\\
+\cdots & \cdots & 0 & \sigma_r
+\end{pmatrix}
+\end{equation}
+\item \textbf{V} matriz ortogonal y de tamaño $p \times r$. 
+\end{itemize}
+\end{defi}
+\end{column}
+\end{columns}
+\end{frame}
+
+\begin{frame}{Métodos no supervisados}
+\begin{columns}
+\begin{column}{0.9\textwidth}
+
+Las componentes principales se pueden calcular de dos maneras:
+\begin{itemize}
+\item Descomposición en vectores y valores propios de la matriz de covarianzas. 
+\item Descomposición en valores singulares de la matriz de datos
+
+\end{itemize}
+\end{column}
+\end{columns}
+\end{frame}
+
+\begin{frame}{Métodos no supervisados}
+\begin{columns}
+\begin{column}{0.9\textwidth}
+
+\begin{defi}
+Sea $\textbf{A}\in \mathbb{M}_{N\times p}(\mathbb{R})$. Definimos la norma de Frobenius de la matriz \textbf{A} como:
+\begin{equation}
+||\textbf{A}||_F=(tr(\textbf{A}^T \textbf{A}))^{\frac{1}{2}}=\left(\sum_{i=1}^{N}\sum _{j=1}^{p}a_{ij}^2\right)^{\frac{1}{2}}
+\end{equation}
+\end{defi}
+\begin{propo}
+La norma de Frobenius es invariante a transformaciones ortogonales.
+\end{propo}
+
+\end{column}
+\end{columns}
+\end{frame}
+
+
+
+\begin{frame}{Métodos no supervisados}
+\begin{columns}
+\begin{column}{0.9\textwidth}
+\begin{defi}
+Se llama matriz reducida de orden $m\leq r$ de $\textbf{X}$ y se denota como $\textbf{X}_m$, a la matriz $N\times m $ resultado de:
+\begin{equation}
+\textbf{X}_m=\textbf{U}_m\mathbf{D}_m\textbf{V}^T_m
+\end{equation}
+Donde:
+\begin{itemize}
+\item $\textbf{U}_m$ matriz ortogonal de tamaño $N \times m$, resultado de tomar de \textbf{U} únicamente la matriz las $m$ primeras columnas. 
+\item $\mathbf{D}_m$  matriz cuadrada de tamaño $m$ diagonal con los $m$ primeros valores singulares. 
+\item $\textbf{V}_m$ matriz ortogonal de tamaño $p \times m$ obtenida al tomar las $m$ primeras columnas de \textbf{V}.
+\end{itemize}
+\end{defi}
+\end{column}
+\end{columns}
+\end{frame}
+
+\begin{frame}{Métodos no supervisados}
+\begin{columns}
+\begin{column}{0.9\textwidth}
+\begin{teorema}[De Eckart-Young]
+Sea \textbf{A} una matriz de coeficientes reales de tamaño $N\times p$ y rango $r$. Entonces se cumple que :
+\begin{equation}
+||\textbf{A}-\textbf{B}||_F\leq ||\textbf{A}-\textbf{A}_m||_F \quad \forall \textbf{B}/ rg(\textbf{B})=m \leq r
+\end{equation} 
+\end{teorema}
+
+El número $m$ de componentes principales se puede elegir teniendo en cuenta la siguiente cantidad:
+\begin{equation}
+t_m=\dfrac{\sum_{j=1}^{m}\lambda_j} {\sum_{j=1}^{r}\lambda_j}
+\end{equation}
+
+La proporción de variabilidad acumulada por las $m$ primeras componentes.
+
+\end{column}
+\end{columns}
+\end{frame}
