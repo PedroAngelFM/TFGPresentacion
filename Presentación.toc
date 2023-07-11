@@ -1,12 +1,12 @@
 \babel@toc {spanish}{}\relax 
 \beamer@sectionintoc {1}{Introducción}{3}{0}{1}
 \beamer@sectionintoc {2}{Métodos supervisados}{7}{0}{2}
-\beamer@subsectionintoc {2}{1}{Métodos lineales para regresión}{11}{0}{2}
-\beamer@subsectionintoc {2}{2}{Clasificación}{22}{0}{2}
-\beamer@subsectionintoc {2}{3}{Redes neuronales}{29}{0}{2}
-\beamer@subsectionintoc {2}{4}{Árboles de decisión y bosques aleatorios.}{34}{0}{2}
-\beamer@sectionintoc {3}{Métodos no supervisados}{47}{0}{3}
-\beamer@subsectionintoc {3}{1}{Análisis de componentes principales}{49}{0}{3}
-\beamer@subsectionintoc {3}{2}{Análisis factorial}{56}{0}{3}
-\beamer@subsectionintoc {3}{3}{Análisis de cluster}{68}{0}{3}
-\beamer@sectionintoc {4}{Aplicación}{77}{0}{4}
+\beamer@subsectionintoc {2}{1}{Métodos lineales para regresión}{10}{0}{2}
+\beamer@subsectionintoc {2}{2}{Clasificación}{20}{0}{2}
+\beamer@subsectionintoc {2}{3}{Redes neuronales}{27}{0}{2}
+\beamer@subsectionintoc {2}{4}{Árboles de decisión y bosques aleatorios.}{32}{0}{2}
+\beamer@sectionintoc {3}{Métodos no supervisados}{45}{0}{3}
+\beamer@subsectionintoc {3}{1}{Análisis de componentes principales}{47}{0}{3}
+\beamer@subsectionintoc {3}{2}{Análisis factorial}{54}{0}{3}
+\beamer@subsectionintoc {3}{3}{Análisis de cluster}{66}{0}{3}
+\beamer@sectionintoc {4}{Aplicación}{75}{0}{4}

@@ -128,19 +128,6 @@ donde $\mathbf{E}$ es la matriz $N\times K$ de errores cometidos en cada una de 
 \end{columns}
 \end{frame}
 
-\begin{frame}{Métodos supervisados}
-\begin{columns}
-\begin{column}{0.9\textwidth}
-El método de los mínimos cuadrados, cambia en el caso de que los errores tengan matriz de covarianzas $\mathbf{\Sigma}$ conocida el $RSS$ se define de la siguiente manera: 
-\begin{equation}
-RSS(\textbf{B},\mathbf{\Sigma})=\sum_{i=1}^N(\mathbf{y}_i-f(\textbf{x}_i)) \mathbf{\Sigma}^{-1} (\mathbf{y}_i-f(\textbf{x}_i))^T
-\end{equation}
-
-donde $d(\mathbf{x}_i,\mathbf{x}_j)=\sqrt{(\mathbf{x}_i-\mathbf{x}_j) \mathbf{\Sigma}^{-1} (\mathbf{x}_i-\mathbf{x}_j)^T}$ es la distancia de Mahalanobis entre dos observaciones. 
-\end{column}
-\end{columns}
-\end{frame}
-
 
 \begin{frame}{Métodos supervisados}
 \begin{columns}
