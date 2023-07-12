@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.4.10)  11 JUL 2023 17:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.27)  12 JUL 2023 06:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -6,12 +6,12 @@ entering extended mode
 (Presentación.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22>
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer.cls
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer.cls
 Document Class: beamer 2023/02/20 v3.69 A class for typesetting presentations
 
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasemodes.
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasemodes.
 sty
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count185
 )
@@ -19,7 +19,7 @@ Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \beamer@tempcount=\count186
 \c@beamerpauses=\count187
 
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasedecode
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasedecode
 .sty
 \beamer@slideinframe=\count188
 \beamer@minimum=\count189
@@ -28,7 +28,7 @@ Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \beamer@commentbox=\box53
 \beamer@modecount=\count190
 )
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 )
 \headdp=\dimen140
@@ -75,19 +75,19 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \beamer@toclastsection=\count275
 \beamer@tocsectionnumber=\count276
 
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseoption
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseoption
 s.sty
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
 ))
 \beamer@paperwidth=\skip49
 \beamer@paperheight=\skip50
 
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
 \Gm@cnth=\count277
@@ -103,39 +103,39 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layoutvoffset=\dimen163
 \Gm@dimlist=\toks17
 
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.st
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.st
 y
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
 -common.tex
 \pgfutil@everybye=\toks18
 \pgfutil@tempdima=\dimen164
 \pgfutil@tempdimb=\dimen165
 )
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
 -latex.def
 \pgfutil@abb=\box60
 )
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.
 code.tex
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
 Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
 ))
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.s
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.s
 ty
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
 .code.tex
 \pgfkeys@pathtoks=\toks19
 \pgfkeys@temptoks=\toks20
 
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
 libraryfiltered.code.tex
 \pgfkeys@tmptoks=\toks21
 )))
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
 .tex
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.
 code.tex
 \pgf@x=\dimen166
 \pgf@xa=\dimen167
@@ -150,7 +150,7 @@ code.tex
 \c@pgf@countc=\count282
 \c@pgf@countd=\count283
 )
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparse
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparse
 r.code.tex
 \pgfmath@dimen=\dimen174
 \pgfmath@count=\count284
@@ -159,59 +159,59 @@ r.code.tex
 \pgfmath@stack@operand=\toks23
 \pgfmath@stack@operation=\toks24
 )
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
 ions.code.tex)
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
 ions.basic.code.tex)
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
 ions.trigonometric.code.tex)
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
 ions.random.code.tex)
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
 ions.comparison.code.tex)
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
 ions.base.code.tex)
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
 ions.round.code.tex)
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
 ions.misc.code.tex)
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
 ions.integerarithmetics.code.tex)
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.
 code.tex)
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat
 .code.tex
 \c@pgfmathroundto@lastzeros=\count285
 )))
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/base\size11.clo
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/base\size11.clo
 File: size11.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 )
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.
 sty
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
 
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
 Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
 
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
 )
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
 fg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
 
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
 File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen175
 \Gin@req@width=\dimen176
 )
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.
 sty
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
 s.code.tex
 Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
 \pgf@x=\dimen177
@@ -235,38 +235,38 @@ Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
 \t@pgf@tokc=\toks27
 \pgf@sys@id@count=\count290
 
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.c
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.c
 fg
 File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
 )
 Driver file for pgf: pgfsys-pdftex.def
 
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
 s-pdftex.def
 File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
 
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
 s-common-pdf.def
 File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
 )))
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
 ssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfsyssoftpath@smallbuffer@items=\count291
 \pgfsyssoftpath@bigbuffer@items=\count292
 )
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
 sprotocol.code.tex
 File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ))
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
 Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
 
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 227.
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
 Package xcolor Info: Model `RGB' extended on input line 1369.
@@ -277,13 +277,13 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
 )
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 e.code.tex
 Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
 
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.
 tex)
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 epoints.code.tex
 File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@picminx=\dimen187
@@ -301,19 +301,19 @@ File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@zx=\dimen199
 \pgf@zy=\dimen256
 )
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 epathconstruct.code.tex
 File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@path@lastx=\dimen257
 \pgf@path@lasty=\dimen258
 )
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 epathusage.code.tex
 File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@shorten@end@additional=\dimen259
 \pgf@shorten@start@additional=\dimen260
 )
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 escopes.code.tex
 File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfpic=\box62
@@ -321,89 +321,89 @@ File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@layerbox@main=\box64
 \pgf@picture@serial@count=\count293
 )
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 egraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgflinewidth=\dimen261
 )
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 etransformations.code.tex
 File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@pt@x=\dimen262
 \pgf@pt@y=\dimen263
 \pgf@pt@temp=\dimen264
 )
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 equick.code.tex
 File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 eobjects.code.tex
 File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 epathprocessing.code.tex
 File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 earrows.code.tex
 File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfarrowsep=\dimen265
 )
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 eshade.code.tex
 File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@max=\dimen266
 \pgf@sys@shading@range@num=\count294
 \pgf@shadingcount=\count295
 )
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 eimage.code.tex
 File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 eexternal.code.tex
 File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfexternal@startupbox=\box65
 )
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 elayers.code.tex
 File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 etransparency.code.tex
 File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 epatterns.code.tex
 File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 erdf.code.tex
 File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )))
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\xxcolor.s
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\xxcolor.s
 ty
 Package: xxcolor 2003/10/24 ver 0.1
 \XC@nummixins=\count296
 \XC@countmixins=\count297
 )
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
 Package: hyperref 2023-02-07 v7.00v Hypertext links for LaTeX
 
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
 )
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
 .sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
 ty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
@@ -411,37 +411,37 @@ Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 )
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
 keys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 )
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
 ty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
-) (C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+) (C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
 )
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro
 .sty
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 )
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2022-05-17 v2.50 Cross-referencing by name of section
 
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 )
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
 lestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
 \c@section@level=\count298
@@ -449,18 +449,18 @@ Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 \@linkdim=\dimen267
 \Hy@linkcounter=\count299
 \Hy@pagecounter=\count300
- (C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+ (C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
 File: pd1enc.def 2023-02-07 v7.00v Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
-) (C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+) (C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
 \Hy@SavedSpaceFactor=\count301
- (C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+ (C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
 File: puenc.def 2023-02-07 v7.00v Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
@@ -477,17 +477,17 @@ Package hyperref Info: Implicit mode OFF; no redefinition of LaTeX internals.
 Package hyperref Info: Bookmarks ON on input line 4425.
 \c@Hy@tempcnt=\count302
 
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4763.
 \XeTeXLinkMargin=\dimen268
 
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
 .sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
@@ -509,10 +509,10 @@ Package hyperref Message: Stopped early.
 
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
- (C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+ (C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
 File: hpdftex.def 2023-02-07 v7.00v Hyperref driver for pdfTeX
 
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
 kage
 with kernel methods
@@ -520,25 +520,25 @@ with kernel methods
 \Fld@listcount=\count305
 \c@bookmark@seq@number=\count306
 
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
 echeck.sty
 Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
 
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
 ounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 85.
 ))
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaserequir
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaserequir
 es.sty
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasecompat
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasecompat
 ibility.sty)
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasefont.s
-ty (C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasefont.s
+ty (C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \@emptytoks=\toks28
 \symAMSa=\mathgroup4
@@ -547,41 +547,41 @@ LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/sansmathaccent\sansmath
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/sansmathaccent\sansmath
 accent.sty
 Package: sansmathaccent 2020/01/31
 
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile.st
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile.st
 y
 Package: scrlfile 2022/10/12 v3.38 KOMA-Script package (file load hooks)
 
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile-ho
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile-ho
 ok.sty
 Package: scrlfile-hook 2022/10/12 v3.38 KOMA-Script package (using LaTeX hooks)
 
 
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlogo.sty
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlogo.sty
 Package: scrlogo 2022/10/12 v3.38 KOMA-Script package (logo)
 )))))
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetransl
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetransl
 ator.sty
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator.s
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator.s
 ty
 Package: translator 2021-05-31 v1.12d Easy translation of strings in LaTeX
 ))
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasemisc.s
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasemisc.s
 ty)
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetwoscr
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetwoscr
 eens.sty)
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseoverla
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseoverla
 y.sty
 \beamer@argscount=\count307
 \beamer@lastskipcover=\skip51
 \beamer@trivlistdepth=\count308
 )
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetitle.
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetitle.
 sty)
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasesectio
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasesectio
 n.sty
 \c@lecture=\count309
 \c@part=\count310
@@ -589,7 +589,7 @@ n.sty
 \c@subsection=\count312
 \c@subsubsection=\count313
 )
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseframe.
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseframe.
 sty
 \beamer@framebox=\box66
 \beamer@frametitlebox=\box67
@@ -606,11 +606,11 @@ sty
 \framewidth=\dimen272
 \c@framenumber=\count317
 )
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseverbat
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseverbat
 im.sty
 \beamer@verbatimfileout=\write4
 )
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseframes
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseframes
 ize.sty
 \beamer@splitbox=\box69
 \beamer@autobreakcount=\count318
@@ -618,25 +618,25 @@ ize.sty
 \beamer@frametitletoks=\toks30
 \beamer@framesubtitletoks=\toks31
 )
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseframec
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseframec
 omponents.sty
 \beamer@footins=\box70
 )
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasecolor.
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasecolor.
 sty)
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasenotes.
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasenotes.
 sty
 \beamer@frameboxcopy=\box71
 )
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetoc.st
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetoc.st
 y)
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetempla
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetempla
 tes.sty
 \beamer@sbttoks=\toks32
 
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseauxtem
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseauxtem
 plates.sty
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseboxes.
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseboxes.
 sty
 \bmb@box=\box72
 \bmb@colorbox=\box73
@@ -650,9 +650,9 @@ sty
 )
 \beamer@blockheadheight=\dimen281
 ))
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaselocals
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaselocals
 tructure.sty
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/tools\enumerate.sty
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/tools\enumerate.sty
 Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
 \@enLab=\toks33
 )
@@ -662,32 +662,32 @@ Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
 \abovecaptionskip=\skip57
 \belowcaptionskip=\skip58
 )
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasenaviga
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasenaviga
 tion.sty
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasenaviga
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasenaviga
 tionsymbols.tex)
 \beamer@section@min@dim=\dimen282
 )
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetheore
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetheore
 ms.sty
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
 Package: amsmath 2022/04/08 v2.17n AMS math features
 \@mathmargin=\skip59
 
 For additional information on amsmath, use the `?' option.
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
 Package: amstext 2021/08/26 v2.01 AMS text
 
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks34
 \ex@=\dimen283
 ))
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen284
 )
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
 \inf@bad=\count321
@@ -738,7 +738,7 @@ LaTeX Info: Redefining \Relbar on input line 971.
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
 )
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/amscls\amsthm.sty
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/amscls\amsthm.sty
 Package: amsthm 2020/05/29 v2.20.6
 \thm@style=\toks39
 \thm@bodyfont=\toks40
@@ -752,38 +752,38 @@ Package: amsthm 2020/05/29 v2.20.6
 )
 \c@theorem=\count333
 )
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasethemes
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasethemes
 .sty))
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerthemedefau
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerthemedefau
 lt.sty
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerfontthemed
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerfontthemed
 efault.sty)
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamercolortheme
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamercolortheme
 default.sty)
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerinnertheme
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerinnertheme
 default.sty
 \beamer@dima=\dimen292
 \beamer@dimb=\dimen293
 )
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beameroutertheme
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beameroutertheme
 default.sty)))
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerthemeMadri
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerthemeMadri
 d.sty
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamercolortheme
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamercolortheme
 whale.sty)
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamercolortheme
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamercolortheme
 orchid.sty)
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerinnertheme
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerinnertheme
 rounded.sty)
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beameroutertheme
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beameroutertheme
 infolines.sty))
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
 Package: babel 2023/02/13 3.86 The Babel package
 \babel@savecnt=\count334
 \U@D=\dimen294
 \l@unhyphenated=\language79
 
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
 \bbl@readstream=\read3
 LaTeX Info: Redefining \textlatin on input line 4088.
 \bbl@dirlevel=\count335
@@ -791,11 +791,11 @@ LaTeX Info: Redefining \textlatin on input line 4088.
 *************************************
 * Local config file bblopts.cfg used
 *
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
 )
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/babel-spanish\spanish.l
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/babel-spanish\spanish.l
 df
 Language: spanish.ldf 2021/05/27 v5.0q Spanish support from the babel system
 \es@quottoks=\toks45
@@ -805,12 +805,12 @@ Package babel Info: Making . an active character on input line 675.
 Package babel Info: Making < an active character on input line 722.
 Package babel Info: Making > an active character on input line 722.
 ))
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/es\babel
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/es\babel
 -spanish.tex
 Package babel Info: Importing font and identification data for spanish
 (babel)             from babel-es.ini. Reported on input line 11.
 )
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
 Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
 
 \f@nch@headwidth=\skip65
@@ -823,7 +823,7 @@ Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
 \f@nch@O@olf=\skip72
 \f@nch@O@orf=\skip73
 )
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/fancybox\fancybox.sty
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/fancybox\fancybox.sty
 Package: fancybox 2010/05/15 1.4
 
 Style option: `fancybox' v1.4 <2010/05/15> (tvz)
@@ -836,19 +836,19 @@ Style option: `fancybox' v1.4 <2010/05/15> (tvz)
 \EndVerbatimTokens=\toks49
 \Verbatim@Outfile=\write5
 \Verbatim@Infile=\read4
-) (C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpage.sty
+) (C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpage.sty
 Package: lastpage 2023/03/07 v2.0a lastpage: 2.09 or 2e? (HMM)
 
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpage2e.sty
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpage2e.sty
 Package: lastpage2e 2023/03/07 v2.0a Decide which 2e lastpage version to use (H
 MM)
 
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpagemodern
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpagemodern
 .sty
 Package: lastpagemodern 2023-03-07 v2.0a Refers to last page's name (HMM; JPG)
 ) 
 ))
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
 \lst@mode=\count337
 \lst@gtempboxa=\box78
 \lst@token=\toks50
@@ -862,30 +862,30 @@ Package: lastpagemodern 2023-03-07 v2.0a Refers to last page's name (HMM; JPG)
 \lst@lineno=\count342
 \lst@maxwidth=\dimen299
 
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
 File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
 \c@lstnumber=\count343
 \lst@skipnumbers=\count344
 \lst@framebox=\box79
 )
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
 File: listings.cfg 2023/02/27 1.9 listings configuration
 ))
 Package: listings 2023/02/27 1.9 (Carsten Heinz)
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
 Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
 \multirow@colwidth=\skip74
 \multirow@cntb=\count345
 \multirow@dima=\skip75
 \bigstrutjot=\dimen300
 )
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/subfig\subfig.sty
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/subfig\subfig.sty
 Package: subfig 2005/06/28 ver: 1.3 subfig package
 
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
 Package: caption 2023/03/12 v3.6j Customizing captions (AR)
 
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
 Package: caption3 2023/03/12 v2.4 caption3 kernel (AR)
 \caption@tempdima=\dimen301
 \captionmargin=\dimen302
@@ -897,7 +897,7 @@ Package: caption3 2023/03/12 v2.4 caption3 kernel (AR)
 \caption@hangindent=\dimen308
 Package caption Info: beamer document class detected.
 
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption-beamer.
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption-beamer.
 sto
 File: caption-beamer.sto 2022/01/06 v2.0c Adaption of the caption package to th
 e beamer document classes (AR)
@@ -922,10 +922,10 @@ Package caption Info: listings package is loaded.
 \sf@top=\skip79
 \sf@bottom=\skip80
 )
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
 Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
 )
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/base\makeidx.sty
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/base\makeidx.sty
 Package: makeidx 2021/10/04 v1.0m Standard LaTeX package
 )
 \c@defi=\count354
@@ -933,11 +933,11 @@ Package: makeidx 2021/10/04 v1.0m Standard LaTeX package
 \c@coro=\count356
 \c@teorema=\count357
 
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/srcltx\srcltx.sty
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/srcltx\srcltx.sty
 Package: srcltx 2006/11/12 v1.6 Source specials for inverse search in DVI files
 
 
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
 Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 )
 \src@lastline=\count358
@@ -948,7 +948,7 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 44.
 Package hyperref Info: Option `bookmarksopen' set `false' on input line 45.
 Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 45.
 
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
 tex.def
 File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count359
@@ -1013,7 +1013,7 @@ LaTeX Font Info:    ... okay on input line 72.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count360
@@ -1028,13 +1028,13 @@ ii
 \makeMPintoPDFobject=\count365
 \everyMPtoPDFconversion=\toks54
 )
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
 ase.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
 fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
@@ -1096,27 +1096,27 @@ LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
 ut line 72.
 
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-b
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-b
 asic-dictionary-English.dict
 Dictionary: translator-basic-dictionary, Language: English 
 )
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-b
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-b
 ibliography-dictionary-English.dict
 Dictionary: translator-bibliography-dictionary, Language: English 
 )
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-e
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-e
 nvironment-dictionary-English.dict
 Dictionary: translator-environment-dictionary, Language: English 
 )
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-m
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-m
 onths-dictionary-English.dict
 Dictionary: translator-months-dictionary, Language: English 
 )
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-n
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-n
 umbers-dictionary-English.dict
 Dictionary: translator-numbers-dictionary, Language: English 
 )
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-t
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-t
 heorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
@@ -1142,7 +1142,7 @@ Overfull \hbox (56.72415pt too wide) has occurred while \output is active
  [][][][][][]  
  []
 
-[1{C:/Users/pedro/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
+[1{C:/Users/Pedro/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
 
  <./Documentos Extra/Imagenes/escudo2tintas.pdf>] (Presentación.toc
 LaTeX Info: Redefining \. on input line 1.
@@ -1172,19 +1172,19 @@ Overfull \hbox (56.72415pt too wide) has occurred while \output is active
 ]
 LaTeX Font Info:    Trying to load font information for U+msa on input line 11.
 
- (C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+ (C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 11.
 
 
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on inp
 ut line 11.
 
-(C:\Users\pedro\AppData\Local\Programs\MiKTeX\tex/latex/sansmathaccent\ot1mathk
+(C:\Users\Pedro\AppData\Local\Programs\MiKTeX\tex/latex/sansmathaccent\ot1mathk
 erncmss.fd
 File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/ma
 thkerncmss.
@@ -2014,8 +2014,14 @@ enddocument/afterlastpage: lastpage setting LastPage.
 LaTeX Info: Redefining \. on input line 22.
 LaTeX Info: Redefining \% on input line 22.
 )
-Package rerunfilecheck Info: File `Presentación.out' has not changed.
-(rerunfilecheck)             Checksum: 670C155C0B7C5D0DA6B16B405A3E85F9;1871.
+
+Package rerunfilecheck Warning: File `Presentación.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `Presentación.out':
+(rerunfilecheck)             Before: 9171EC2688FAEA3495C82B739692990B;1882
+(rerunfilecheck)             After:  670C155C0B7C5D0DA6B16B405A3E85F9;1871.
  ) 
 Here is how much of TeX's memory you used:
  27850 strings out of 476334
@@ -2025,24 +2031,24 @@ Here is how much of TeX's memory you used:
  528029 words of font info for 88 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,24n,122p,407b,1138s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
-cmex10.pfb><C:/Users/pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
-fonts/cm/cmmi10.pfb><C:/Users/pedro/AppData/Local/Programs/MiKTeX/fonts/type1/p
-ublic/amsfonts/cm/cmmi8.pfb><C:/Users/pedro/AppData/Local/Programs/MiKTeX/fonts
-/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/pedro/AppData/Local/Programs/MiK
-TeX/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Users/pedro/AppData/Local/Pro
-grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Users/pedro/AppData/L
-ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss9.pfb><C:/Users/pedro/A
+<C:/Users/Pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
+cmex10.pfb><C:/Users/Pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmmi10.pfb><C:/Users/Pedro/AppData/Local/Programs/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmmi8.pfb><C:/Users/Pedro/AppData/Local/Programs/MiKTeX/fonts
+/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/Pedro/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Users/Pedro/AppData/Local/Pro
+grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Users/Pedro/AppData/L
+ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss9.pfb><C:/Users/Pedro/A
 ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Us
-ers/pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi10.
-pfb><C:/Users/pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
-m/cmssi8.pfb><C:/Users/pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
-msfonts/cm/cmsy10.pfb><C:/Users/pedro/AppData/Local/Programs/MiKTeX/fonts/type1
-/public/amsfonts/cm/cmsy6.pfb><C:/Users/pedro/AppData/Local/Programs/MiKTeX/fon
-ts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/pedro/AppData/Local/Programs/Mi
-KTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Users/pedro/AppData/Local/Pr
+ers/Pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi10.
+pfb><C:/Users/Pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
+m/cmssi8.pfb><C:/Users/Pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
+msfonts/cm/cmsy10.pfb><C:/Users/Pedro/AppData/Local/Programs/MiKTeX/fonts/type1
+/public/amsfonts/cm/cmsy6.pfb><C:/Users/Pedro/AppData/Local/Programs/MiKTeX/fon
+ts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Pedro/AppData/Local/Programs/Mi
+KTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Users/Pedro/AppData/Local/Pr
 ograms/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on Presentación.pdf (86 pages, 1435723 bytes).
+Output written on Presentación.pdf (86 pages, 1435729 bytes).
 PDF statistics:
  2989 PDF objects out of 3580 (max. 8388607)
  206 named destinations out of 1000 (max. 500000)
